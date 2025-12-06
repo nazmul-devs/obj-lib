@@ -2,8 +2,12 @@
 
 A lightweight, zero-dependency object utility library for Node.js and the browser.
 
+[![npm version](https://img.shields.io/npm/v/obj-lib.svg?style=flat)](https://www.npmjs.com/package/obj-lib)
+[![npm downloads](https://img.shields.io/npm/dt/obj-lib.svg?style=flat)](https://www.npmjs.com/package/obj-lib)
+[![Bundle Size](https://img.shields.io/bundlephobia/minzip/obj-lib)](https://bundlephobia.com/package/obj-lib)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub](https://img.shields.io/badge/GitHub-nazmul--devs%2Fobj--lib-181717.svg?style=flat&logo=github)](https://github.com/nazmul-devs/obj-lib)
+[![Types](https://img.shields.io/npm/types/obj-lib.svg?style=flat)](https://www.npmjs.com/package/obj-lib)
 
 ## Features
 
