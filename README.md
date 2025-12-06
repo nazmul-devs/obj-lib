@@ -3,6 +3,7 @@
 A lightweight, zero-dependency object utility library for Node.js and the browser.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/badge/GitHub-nazmul--devs%2Fobj--lib-181717.svg?style=flat&logo=github)](https://github.com/nazmul-devs/obj-lib)
 
 ## Features
 
