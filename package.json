@@ -1,0 +1,27 @@
+{
+  "name": "obj-lib",
+  "version": "1.0.0",
+  "description": "A lightweight zero-dependency object utility library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test dist/**/*.test.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "object",
+    "utils",
+    "deepClone",
+    "merge"
+  ],
+  "author": "Nazmul",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3"
+  }
+}
