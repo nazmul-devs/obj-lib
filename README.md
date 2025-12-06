@@ -1,4 +1,4 @@
-# obj-lib
+# obj-lib - Zero-Dependency Object Utility Library
 
 A lightweight, zero-dependency object utility library for Node.js and the browser.
 
