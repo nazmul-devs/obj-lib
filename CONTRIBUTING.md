@@ -7,7 +7,7 @@ Thank you for considering contributing to `obj-lib`!
 1.  **Fork the repository** to your own GitHub account.
 2.  **Clone the project** to your local machine:
     ```bash
-    git clone https://github.com/your-username/obj-lib.git
+    git clone https://github.com/nazmul-devs/obj-lib.git
     cd obj-lib
     ```
 3.  **Install dependencies**:
@@ -33,3 +33,7 @@ Thank you for considering contributing to `obj-lib`!
 ## Code of Conduct
 
 Please be respectful and considerate of others when contributing.
+
+---
+
+# ❤️
